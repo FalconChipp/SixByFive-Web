@@ -15,12 +15,12 @@ export default function BrandIntro() {
                 into the same product story.
               </p>
 
-              <p>
+              {/* <p>
                 The goal is clarity. The main site acts as the front door,
                 while each destination can speak properly to its own audience,
                 whether that is collectors, customers, or people interested in
                 the technical side of the work.
-              </p>
+              </p> */}
             </div>
           </div>
         </div>

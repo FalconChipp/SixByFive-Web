@@ -8,11 +8,11 @@ export default function Ventures() {
         <div className="section-header">
           <p className="section-kicker">Destinations</p>
           <h2 className="section-title">Three focused parts of SixByFive.</h2>
-          <p className="section-copy">
+          {/* <p className="section-copy">
             SixByFive is structured around distinct areas of work. The main site
             should make that separation clear quickly, then route people to the
             right destination.
-          </p>
+          </p> */}
         </div>
 
         <div className="ventures-grid">
