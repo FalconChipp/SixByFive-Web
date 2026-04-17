@@ -74,8 +74,7 @@ export default function Hero() {
 
           <div className="hero__panel-footer">
             <p className="hero__panel-copy">
-              A clearer front door for the SixByFive brand, with each destination
-              doing its own job properly.
+              Explore the area that fits what you need.
             </p>
           </div>
         </aside>
