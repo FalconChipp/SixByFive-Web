@@ -1,7 +1,7 @@
 export const metadata = {
   title: "Contact",
   description:
-    "Get to the right part of SixByFive for collector platform, 3D printing, or technical work.",
+    "Get to the right part of SixByFive for collector platform, Kora, or technical work.",
 };
 
 const contactRoutes = [
@@ -14,12 +14,12 @@ const contactRoutes = [
     linkLabel: "Go to TCG →",
   },
   {
-    eyebrow: "Fabrication",
-    title: "3D printing",
+    eyebrow: "Platform",
+    title: "Kora",
     description:
-      "Enquiries related to custom printing, prototyping, fabrication, or project-based printing work.",
-    href: "https://3dprinting.sixbyfive.com",
-    linkLabel: "Go to 3D Printing →",
+      "Enquiries related to Kora, the platform, or anything connected to koraplatform.co.uk.",
+    href: "https://koraplatform.co.uk",
+    linkLabel: "Go to Kora →",
   },
   {
     eyebrow: "Tooling",

@@ -7,9 +7,9 @@ const heroHighlights = [
     href: "https://tcg.sixbyfive.com",
   },
   {
-    label: "Fabrication",
-    value: "3D Printing",
-    href: "https://3dprinting.sixbyfive.com",
+    label: "Platform",
+    value: "Kora",
+    href: "https://koraplatform.co.uk",
   },
   {
     label: "Tooling",

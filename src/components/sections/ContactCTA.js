@@ -7,8 +7,8 @@ const destinations = [
     style: "button button--primary",
   },
   {
-    label: "3D Printing",
-    href: "https://3dprinting.sixbyfive.com",
+    label: "Kora",
+    href: "https://koraplatform.co.uk",
     style: "button button--secondary",
   },
   {
@@ -27,8 +27,8 @@ export default function ContactCTA() {
             <p className="section-kicker">Start here</p>
             <h2 className="section-title">Choose the part of SixByFive that fits best.</h2>
             <p className="section-copy">
-              Whether you are looking for the collector platform, 3D printing
-              services, or the wider technical side of the brand, start with the
+              Whether you are looking for the collector platform, Kora,
+              or the wider technical side of the brand, start with the
               destination that matches what you need.
             </p>
           </div>

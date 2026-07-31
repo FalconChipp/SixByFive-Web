@@ -4,8 +4,8 @@ export const navigation = [
   { label: "Contact", href: "/contact" },
   { label: "TCG", href: "https://tcg.sixbyfive.com", external: true },
   {
-    label: "3D Printing",
-    href: "https://3dprinting.sixbyfive.com",
+    label: "Kora",
+    href: "https://koraplatform.co.uk",
     external: true,
   },
   { label: "Dev", href: "https://dev.sixbyfive.com", external: true },

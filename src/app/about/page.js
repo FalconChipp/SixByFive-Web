@@ -14,12 +14,12 @@ const areas = [
     linkLabel: "Visit TCG →",
   },
   {
-    eyebrow: "Fabrication",
-    title: "3D printing",
+    eyebrow: "Platform",
+    title: "Kora",
     description:
-      "SixByFive 3D Printing focuses on practical fabrication, prototyping, and custom project work.",
-    href: "https://3dprinting.sixbyfive.com",
-    linkLabel: "Visit 3D Printing →",
+      "Kora is a platform built for structured workflows, collaboration, and getting the right things done.",
+    href: "https://koraplatform.co.uk",
+    linkLabel: "Visit Kora →",
   },
   {
     eyebrow: "Tooling",

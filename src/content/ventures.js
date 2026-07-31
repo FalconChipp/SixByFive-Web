@@ -8,12 +8,12 @@ export const ventures = [
     linkLabel: "Visit TCG →",
   },
   {
-    eyebrow: "Fabrication",
-    title: "SixByFive 3D Printing",
+    eyebrow: "Platform",
+    title: "Kora",
     description:
-      "Custom 3D printing, prototyping, and fabrication for practical projects, ideas, and small-batch work.",
-    href: "https://3dprinting.sixbyfive.com",
-    linkLabel: "Visit 3D Printing →",
+      "Kora is a platform built for structured workflows, collaboration, and getting the right things done.",
+    href: "https://koraplatform.co.uk",
+    linkLabel: "Visit Kora →",
   },
   {
     eyebrow: "Tooling",
