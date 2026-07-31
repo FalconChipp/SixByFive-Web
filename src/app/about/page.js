@@ -42,8 +42,8 @@ export default function AboutPage() {
               A focused brand for the different things built under SixByFive.
             </h1>
             <p className="page-hero__copy">
-              SixByFive brings together a collector platform, fabrication work,
-              and technical tooling under one name without forcing them into the
+              SixByFive brings together a collector platform, Kora, and
+              technical tooling under one name without forcing them into the
               same product story.
             </p>
           </div>
@@ -67,8 +67,8 @@ export default function AboutPage() {
                 </p>
 
                 <p>
-                  That means the collector platform can focus on collectors, the
-                  fabrication side can focus on project work and custom printing,
+                  That means the collector platform can focus on collectors,
+                  Kora can focus on the people and outcomes it is built for,
                   and the technical side can focus on tools, systems, and
                   experiments.
                 </p>
