@@ -44,7 +44,7 @@ export default function Footer() {
 
             <p className="site-footer__copy">
               A focused home for products, services, and technical work across
-              collector platforms, fabrication, and development.
+              collector platforms, Kora, and development.
             </p>
           </div>
 
