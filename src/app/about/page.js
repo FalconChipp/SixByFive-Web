@@ -54,28 +54,24 @@ export default function AboutPage() {
         <div className="container">
           <div className="brand-intro surface-panel">
             <div className="brand-intro__content copy-narrow">
-              <p className="section-kicker">How it works</p>
+              <p className="section-kicker">Who</p>
               <h2 className="section-title">
-                The main site provides clarity. The destinations do the deeper work.
+                An independent studio building software people actually use.
               </h2>
 
               <div className="section-copy">
                 <p>
-                  SixByFive is structured so each part can speak properly to its
-                  own audience. The main site acts as a clean front door, while
-                  the individual destinations can go deeper into what they offer.
+                  SixByFive is a small UK studio. The work spans different
+                  places — a collector platform, Kora, technical tooling,
+                  and bespoke systems for small businesses that need
+                  something real behind their operations.
                 </p>
 
                 <p>
-                  That means the collector platform can focus on collectors,
-                  Kora can focus on the people and outcomes it is built for,
-                  and the technical side can focus on tools, systems, and
-                  experiments.
-                </p>
-
-                <p>
-                  The goal is not to make everything feel the same. The goal is
-                  to make the overall brand feel connected, clear, and deliberate.
+                  None of that shares a market. What it shares is the kind
+                  of software it is — things people rely on day to day, not
+                  demos or one-off projects. The brief is always the same:
+                  build it properly, ship it, keep it running.
                 </p>
               </div>
             </div>
